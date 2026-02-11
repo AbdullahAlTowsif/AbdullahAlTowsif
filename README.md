@@ -1,5 +1,11 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/LdSssM8r/Abdullah-Al-Towsif.png"  />
+  <h3><i>“It’s not a bug; it’s an undocumented feature.”</i> – Anonymous 🔧✨</h3>
+</div>
+
+<br />
+
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/KZ3TY0t/Black-and-Gold-Modern-Personal-Linked-In-Banner.png"  />
 </div>
 
 ###
