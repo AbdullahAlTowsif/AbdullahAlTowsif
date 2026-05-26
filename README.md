@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Backend Technologies.<br>🎯 Goals: Become a successful Software Engineer.<br>🎲 Fun fact: Exploring new technologies & Like to play games and watching movies.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Backend Technologies (Golang).<br>🎯 Goals: Become a successful Software Engineer.<br>🎲 Fun fact: Exploring new technologies & Like to play games and watching movies.</p>
 
 ###
 
