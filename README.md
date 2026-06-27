@@ -1,10 +1,10 @@
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsMjgwcjQ2Zjk3ZjA1bGQ2OHNvdWU1N3A1N3JmZ3R3eWFmYmFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtsMjgwcjQ2Zjk3ZjA1bGQ2OHNvdWU1N3A1N3JmZ3R3eWFmYmFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
 </div>
 
 ###
 
-<div align="center">
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/abdullah-al-towsif-1528ba345/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -15,29 +15,29 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahAlTowsif.AbdullahAlTowsif&"  />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahAlTowsif.AbdullahAlTowsif&"  />
 </div>
 
 ###
 
-<h1 align="center">Hello, World 🌍</h1>
+<h1 data-importer="text" align="center">Hello, World 🌍</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h6 align="left">I'm Abdullah Al Towsif from Bangladesh<br><br>- 🔭 I’m a student working towards landing my first full-time role in tech.<br>- 📚 I'm currently learning Backend Technologies (Golang)<br>- ⚡ In my free time I watch movies, playing games and like to explore new techs.</h6>
+<h6 data-importer="text" align="left">I'm Abdullah Al Towsif from Bangladesh<br><br>- 🔭 I’m a student working towards landing my first full-time role in tech.<br>- 📚 I'm currently learning Backend Technologies (Golang)<br>- ⚡ In my free time I watch movies, playing games and like to explore new techs.</h6>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -93,15 +93,15 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AbdullahAlTowsif/AbdullahAlTowsif/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/AbdullahAlTowsif/AbdullahAlTowsif/languages-output/languages.svg" height="150" alt="languages graph"  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/AbdullahAlTowsif/AbdullahAlTowsif/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/AbdullahAlTowsif/AbdullahAlTowsif/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AbdullahAlTowsif&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/AbdullahAlTowsif/AbdullahAlTowsif/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/AbdullahAlTowsif/AbdullahAlTowsif/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
