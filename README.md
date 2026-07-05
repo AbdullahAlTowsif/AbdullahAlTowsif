@@ -23,7 +23,7 @@
 name: Abdullah Al Towsif
 location: Chittagong, Bangladesh
 role: Computer Science Student
-focus: Backend Development (Go)
+focus: Backend Development & becoming a successful Software Engineer 🚀
 currently_learning: [Golang, System Design]
 hobbies: [Watching Movies, Gaming, Exploring New Tech]
 goal: Landing my first full-time role in tech 🎯
@@ -97,23 +97,6 @@ goal: Landing my first full-time role in tech 🎯
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAlTowsif&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![Events & Activities Frontend](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlTowsif&repo=events-activities-frontend&theme=tokyonight&hide_border=true)](https://github.com/AbdullahAlTowsif/events-activities-frontend)
-[![Events & Activities Backend](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlTowsif&repo=events-activities-backend&theme=tokyonight&hide_border=true)](https://github.com/AbdullahAlTowsif/events-activities-backend)
-
-[![Ride Booking Frontend](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlTowsif&repo=ride-booking-system-frontend&theme=tokyonight&hide_border=true)](https://github.com/AbdullahAlTowsif/ride-booking-system-frontend)
-[![Ride Booking Backend](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlTowsif&repo=ride-booking-system-backend&theme=tokyonight&hide_border=true)](https://github.com/AbdullahAlTowsif/ride-booking-system-backend)
-
-[![eduHive Client](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlTowsif&repo=eduHive-client&theme=tokyonight&hide_border=true)](https://github.com/AbdullahAlTowsif/eduHive-client)
-[![eduHive Server](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlTowsif&repo=eduHive-server&theme=tokyonight&hide_border=true)](https://github.com/AbdullahAlTowsif/eduHive-server)
 
 </div>
 
