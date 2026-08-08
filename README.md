@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Abdullah%20Al%20Towsif&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Go%20%7C%20Full%20Stack%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdullah+%F0%9F%91%8B;Backend+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Currently+learning+Golang+%E2%9A%A1;Building+cool+things%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Towsif+%F0%9F%91%8B;Backend+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Currently+learning+Golang+%E2%9A%A1;Building+cool+things%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@ name: Abdullah Al Towsif
 location: Chittagong, Bangladesh
 role: Computer Science Student
 focus: Backend Development & becoming a successful Software Engineer 🚀
-currently_learning: [Golang, System Design]
+currently_learning: [Golang, ASP.NET]
 hobbies: [Watching Movies, Gaming, Exploring New Tech]
 goal: Landing my first full-time role in tech 🎯
 ```
