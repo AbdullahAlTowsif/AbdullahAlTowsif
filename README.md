@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00c9a7&height=240&section=header&text=Abdullah%20Al%20Towsif&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Building%20Secure%2C%20Scalable%20APIs&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20,24&height=260&section=header&text=Abdullah%20Al%20Towsif&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20Building%20Secure%2C%20Scalable%20APIs&descAlignY=62&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Towsif+%F0%9F%91%8B;Backend+Engineer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Node.js+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+ASP.NET;Currently+learning+ASP.NET+%26+sharpening+Go+%E2%9A%A1;Looking+for+my+first+full-time+tech+role+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Towsif+%F0%9F%91%8B;Backend+Engineer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Node.js+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+ASP.NET;Currently+learning+ASP.NET+%26+Django+%E2%9A%A1;Looking+for+my+first+full-time+tech+role+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,17 +23,17 @@
 ```yaml
 name: Abdullah Al Towsif
 location: Chittagong, Bangladesh
-education: B.Sc. in CSE, NITER (University of Dhaka) — 2022–2026
+education: B.Sc. in CSE, NITER (affiliated with University of Dhaka) — Graduated 2026
 role: Aspiring Backend Engineer
-focus: Secure APIs, real-time systems & AI-powered features
-currently_learning: [ASP.NET, Golang]
+focus: Clean, scalable backend systems & well-designed REST APIs
+currently_learning: [ASP.NET, Django]
 hobbies: [Watching Movies, Gaming, Exploring New Tech]
 current_goal: Landing my first full-time role in tech 🎯
 ```
 
-- 🎓 Final-year CS student who digs into systems and concepts, not just surface-level code
+- 🎓 CS graduate who digs into systems and concepts, not just surface-level code
 - 🔭 Building full-stack products with **Next.js + Express + PostgreSQL/MongoDB**
-- 🌱 Currently learning **ASP.NET** and deepening my **Go** (Echo) backend skills
+- 🌱 Currently learning **ASP.NET** and deepening my **Django** backend skills
 - 🧩 Solving problems on [LeetCode](https://leetcode.com/u/abdullahaltowsif/) to sharpen DSA
 - 🤖 AI-native workflow: Claude, OpenCode, Copilot, plus LLM integrations (Gemini, OpenRouter)
 - 💬 Ask me about **TypeScript, Node.js, React, Prisma, JWT/RBAC, or Go**
@@ -106,18 +106,6 @@ current_goal: Landing my first full-time role in tech 🎯
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| 🧭 **CareerForge** <br/> *AI-powered youth employment (SDG 8)* | Weighted job-matching engine with match %, reasons and skill-gap analysis. Gemini-powered CV skill extraction, personalized career roadmaps (PDF export) and a context-aware CareerBot. | `Next.js` `Express` `MongoDB` `Redis` `Gemini` `Stripe` `SSLCommerz` |
-| 🎟️ **Events** <br/> *Online events & activities platform* | Role-based event platform with host onboarding approval, admin moderation, payment tracking and an AI-powered recommendation system. | `Next.js` `Express` `PostgreSQL` `Prisma` `Stripe` |
-| 🚗 **Ride Booking** <br/> *Online ride booking system* | Full ride lifecycle (request → accept → in-progress → complete/cancel), JWT access/refresh auth, SSLCommerz payments and rider emergency contacts. | `React` `Redux Toolkit` `Express` `MongoDB` `JWT` `OAuth 2.0` |
-
-> 🔗 Find the client, server and live links for each project in my [pinned repositories](https://github.com/AbdullahAlTowsif?tab=repositories) and on my [portfolio](https://abdullah-al-towsif-v2.vercel.app/).
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -165,6 +153,6 @@ current_goal: Landing my first full-time role in tech 🎯
 
 **Thanks for stopping by! Let's build something great together 🤝**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,11,6&height=90&section=footer" width="100%"/>
 
 </div>
