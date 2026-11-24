@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Abdullah%20Al%20Towsif&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Go%20%7C%20Full%20Stack%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00c9a7&height=240&section=header&text=Abdullah%20Al%20Towsif&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Building%20Secure%2C%20Scalable%20APIs&descAlignY=60&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Towsif+%F0%9F%91%8B;Backend+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Currently+learning+Golang+%E2%9A%A1;Building+cool+things%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Towsif+%F0%9F%91%8B;Backend+Engineer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Node.js+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+ASP.NET;Currently+learning+ASP.NET+%26+sharpening+Go+%E2%9A%A1;Looking+for+my+first+full-time+tech+role+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullah-al-towsif-v2.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-towsif-1528ba345/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abdullahaltowsif/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/towsif635)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.al.towsif2002@gmail.com)
 
@@ -17,73 +18,107 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Abdullah Al Towsif
 location: Chittagong, Bangladesh
-role: Computer Science Student
-focus: Backend Development & becoming a successful Software Engineer 🚀
-currently_learning: [Golang, ASP.NET]
+education: B.Sc. in CSE, NITER (University of Dhaka) — 2022–2026
+role: Aspiring Backend Engineer
+focus: Secure APIs, real-time systems & AI-powered features
+currently_learning: [ASP.NET, Golang]
 hobbies: [Watching Movies, Gaming, Exploring New Tech]
-goal: Landing my first full-time role in tech 🎯
+current_goal: Landing my first full-time role in tech 🎯
 ```
 
-- 🎓 Student, currently sharpening my backend chops with **Golang**
-- 🔭 Working on full-stack projects spanning **MERN** and **Go** backends
-- 🌱 Always exploring new frameworks and tools
-- 💬 Ask me about JavaScript, TypeScript, React, Node.js, or Go
-- ⚡ Fun fact: I probably have a repo for it — **152 repositories** and counting!
+- 🎓 Final-year CS student who digs into systems and concepts, not just surface-level code
+- 🔭 Building full-stack products with **Next.js + Express + PostgreSQL/MongoDB**
+- 🌱 Currently learning **ASP.NET** and deepening my **Go** (Echo) backend skills
+- 🧩 Solving problems on [LeetCode](https://leetcode.com/u/abdullahaltowsif/) to sharpen DSA
+- 🤖 AI-native workflow: Claude, OpenCode, Copilot, plus LLM integrations (Gemini, OpenRouter)
+- 💬 Ask me about **TypeScript, Node.js, React, Prisma, JWT/RBAC, or Go**
 
 ---
 
-### 🛠️ Tech Stack
+## 🎯 Current Goal
+
+> **Landing my first full-time role in tech.** I'm open to backend and full-stack opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/abdullah-al-towsif-1528ba345/) or [email](mailto:abdullah.al.towsif2002@gmail.com).
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases & ORMs**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**Backend & Databases**
+**Auth, Payments & DevOps**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-**Tools & Platforms**
+**Tools & Testing**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| 🧭 **CareerForge** <br/> *AI-powered youth employment (SDG 8)* | Weighted job-matching engine with match %, reasons and skill-gap analysis. Gemini-powered CV skill extraction, personalized career roadmaps (PDF export) and a context-aware CareerBot. | `Next.js` `Express` `MongoDB` `Redis` `Gemini` `Stripe` `SSLCommerz` |
+| 🎟️ **Events** <br/> *Online events & activities platform* | Role-based event platform with host onboarding approval, admin moderation, payment tracking and an AI-powered recommendation system. | `Next.js` `Express` `PostgreSQL` `Prisma` `Stripe` |
+| 🚗 **Ride Booking** <br/> *Online ride booking system* | Full ride lifecycle (request → accept → in-progress → complete/cancel), JWT access/refresh auth, SSLCommerz payments and rider emergency contacts. | `React` `Redux Toolkit` `Express` `MongoDB` `JWT` `OAuth 2.0` |
+
+> 🔗 Find the client, server and live links for each project in my [pinned repositories](https://github.com/AbdullahAlTowsif?tab=repositories) and on my [portfolio](https://abdullah-al-towsif-v2.vercel.app/).
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -102,19 +137,34 @@ goal: Landing my first full-time role in tech 🎯
 
 ---
 
+## 🧩 LeetCode
+
 <div align="center">
 
-### 🏆 Achievements
-Pull Shark 🦈 &nbsp;|&nbsp; YOLO 🎲
+<a href="https://leetcode.com/u/abdullahaltowsif/">
+  <img src="https://leetcard.jacoblin.cool/abdullahaltowsif?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</a>
 
-### 📈 Profile Views
+</div>
+
+---
+
+## 🏅 Courses, Hackathons & Achievements
+
+- 🏆 **Round 2 Qualifier**, SOLVIO AI Hackathon 2025
+- 🤝 **Participant**, NextGen Hackathon (IIUC) 2025
+- 📜 Next Level Web Development & Complete Web Development, Programming Hero
+- 🐍 100 Days of Python, Udemy
+- 🦈 GitHub: Pull Shark · 🎲 YOLO
+
+<div align="center">
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=AbdullahAlTowsif.AbdullahAlTowsif)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+**Thanks for stopping by! Let's build something great together 🤝**
 
-**Thanks for stopping by! Feel free to connect 🤝**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
